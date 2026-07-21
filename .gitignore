@@ -1,0 +1,7 @@
+# Секреты с API-ключами
+.streamlit/secrets.toml
+
+# Временные файлы и папки
+chroma_db/
+__pycache__/
+*.pyc
